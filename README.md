@@ -1,5 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently learning about bot developing<br>💤 Nap Lover
+Streaming Daily https://img.shields.io/twitch/status/Aerwix 
 
 
 ## 🌐 Socials:
