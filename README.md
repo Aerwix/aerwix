@@ -19,12 +19,9 @@
 - [Gun Gale Online (2015)](https://www.facebook.com/BRampageOnline) $\textcolor{red}{ 🌐 Offline 🌐}$
 
 
-
-.. raw:: html
-
-   <a href="https://github.com/opentibiabr/canary" alt="Canary">
-      <picture>
-         <source
+<a href="https://github.com/opentibiabr/canary" alt="Canary">
+   <picture>
+      <source
             srcset="https://github-readme-stats.vercel.app/api/pin/?username=lizardbyte&repo=sunshine&theme=dark"
             media="(prefers-color-scheme: dark)"
          />
