@@ -3,11 +3,12 @@
 
 ## $\textcolor{#00B7FF}{ 🌐 Socials 🌐}$
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Aerwix)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://dsc.gg/FuneralOT)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Aerwix)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Aerwix)
-[![FuneralOT](https://img.shields.io/discord/930699491248578590.svg?style=flat-square&logo=discord)](https://dsc.gg/FuneralOT)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Aerwix.Gaming)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Aerwix)
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://dsc.gg/FuneralOT)
+[![FuneralOT](https://img.shields.io/discord/930699491248578590.svg?style=flat-square&logo=discord)](https://dsc.gg/FuneralOT)
 
 ## $\textcolor{#00B7FF}{ 🌐 Active \space Tibia \space Projects 🌐}$
 - [Dragon Ball Universe](https://dbuniverse.net/) $\textcolor{green}{ 🌐 Online 🌐}$
