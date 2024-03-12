@@ -1,5 +1,4 @@
 <!-- ## $${\color{red}Welcome \space \color{lightblue}To \space your \space \color{red}{FUNERAL}}$$ -->
-[!](https://img.shields.io/badge/welcome_to_my_profile-8A2BE2)
 
 ## $\textcolor{#00B7FF}{ 🌐 Socials 🌐}$
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Aerwix)
@@ -10,6 +9,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://dsc.gg/FuneralOT)
 [![FuneralOT](https://img.shields.io/discord/930699491248578590.svg?style=flat-square&logo=discord)](https://dsc.gg/FuneralOT)
 
+# Open Tibia Section
 ## $\textcolor{#00B7FF}{ 🌐 Active \space Tibia \space Projects 🌐}$
 - [Dragon Ball Universe](https://dbuniverse.net/) $\textcolor{green}{ 🌐 Online 🌐}$
 - [Nataera OT](http://nataera.com/) $\textcolor{green}{ 🌐 Online 🌐}$
