@@ -10,13 +10,13 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Aerwix.Gaming)
 
 ## $\textcolor{#00B7FF}{ 🌐 Active \space Tibia \space Projects 🌐}$
-- Dragon Ball Universe $\textcolor{green}{ 🌐 Online 🌐}$
-- Nataera OT ## $\textcolor{green}{ 🌐 Online 🌐}$
+- [Dragon Ball Universe](https://dbuniverse.net/) $\textcolor{green}{ 🌐 Online 🌐}$
+- [Nataera OT](http://nataera.com/) $\textcolor{green}{ 🌐 Online 🌐}$
 
 ## $\textcolor{#00B7FF}{ 💀 Open \space Tibia \space Projects \space that \space I \space worked. 💀}$
-- [DreamOT (2018)](https://www.youtube.com/watch?v=zqFa0FbWlDM&ab_channel=AlexOnTv)
-- Pokemon Galaxy (2015-2016)
-- [Gun Gale Online (2015)](https://www.facebook.com/BRampageOnline)
+- [DreamOT (2018)](https://www.youtube.com/watch?v=zqFa0FbWlDM&ab_channel=AlexOnTv) $\textcolor{red}{ 🌐 Offline 🌐}$
+- Pokemon Galaxy (2015-2016) $\textcolor{red}{ 🌐 Offline 🌐}$
+- [Gun Gale Online (2015)](https://www.facebook.com/BRampageOnline) $\textcolor{red}{ 🌐 Offline 🌐}$
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
