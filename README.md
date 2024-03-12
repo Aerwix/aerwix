@@ -22,7 +22,7 @@
 <a href="https://github.com/opentibiabr/canary" alt="Canary">
    <picture>
       <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=lizardbyte&repo=sunshine&theme=dark"
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=OpenTibiaBr&repo=canary&theme=dark"
             media="(prefers-color-scheme: dark)"
          />
          <source
