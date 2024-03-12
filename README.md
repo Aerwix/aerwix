@@ -18,5 +18,25 @@
 - [Pokemon Galaxy (2015-2016)](https://www.youtube.com/watch?v=zw4zeNNTMAY&list=PL6I9Ruqi63_kdzN8fAnPAaR6_43JBpULR&ab_channel=Fabianhernandez) $\textcolor{red}{ 🌐 Offline 🌐}$
 - [Gun Gale Online (2015)](https://www.facebook.com/BRampageOnline) $\textcolor{red}{ 🌐 Offline 🌐}$
 
+- 
+Gaming Projects
+^^^^^^^^^^^^^^^
+
+.. raw:: html
+
+   <a href="https://github.com/LizardByte/Sunshine" alt="Sunshine">
+      <picture>
+         <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=lizardbyte&repo=sunshine&theme=dark"
+            media="(prefers-color-scheme: dark)"
+         />
+         <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=lizardbyte&repo=sunshine&theme=light"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+         />
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=lizardbyte&repo=sunshine&theme=light" />
+      </picture>
+   </a>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
