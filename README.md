@@ -1,13 +1,13 @@
 <!-- ## $${\color{red}Welcome \space \color{lightblue}To \space your \space \color{red}{FUNERAL}}$$ -->
 
-## $\textcolor{#00B7FF}{ 🌐 Socials 🌐}$
+## $\textcolor{grape}{ 🌐 Socials 🌐}$
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Aerwix)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Aerwix)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Aerwix.Gaming)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Aerwix)
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://dsc.gg/FuneralOT)
-[![FuneralOT](https://img.shields.io/discord/930699491248578590.svg?style=flat-square&logo=discord)](https://dsc.gg/FuneralOT)
+<!-- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://dsc.gg/FuneralOT)
+[![FuneralOT](https://img.shields.io/discord/930699491248578590.svg?style=flat-square&logo=discord)](https://dsc.gg/FuneralOT) -->
 
 # Open Tibia Section
 ## $\textcolor{#00B7FF}{ 🌐 Active \space Tibia \space Projects 🌐}$
