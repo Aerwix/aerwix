@@ -9,11 +9,11 @@
 [![FuneralOT](https://img.shields.io/discord/930699491248578590.svg?style=flat-square&logo=discord)](https://dsc.gg/FuneralOT)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Aerwix.Gaming)
 
-## $\textcolor{#00B7FF}{ 🌐 DeceaOpen Tibia Projects 🌐}$
+## $\textcolor{#00B7FF}{ 🌐 Active \space Tibia \space Projects 🌐}$
 - Dragon Ball Universe $\textcolor{green}{ 🌐 Online 🌐}$
 - Nataera OT ## $\textcolor{green}{ 🌐 Online 🌐}$
 
-## $\textcolor{#00B7FF}{ 💀 Open Tibia Projects that I worked. 💀}$
+## $\textcolor{#00B7FF}{ 💀 Open \space Tibia \space Projects \space that \space I \space worked. 💀}$
 - DreamOT (2018)
 - Pokemon Galaxy (2015-2016)
 - [Gun Gale Online (2015)](https://www.facebook.com/BRampageOnline)
