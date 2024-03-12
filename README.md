@@ -9,7 +9,6 @@
 <!-- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://dsc.gg/FuneralOT)
 [![FuneralOT](https://img.shields.io/discord/930699491248578590.svg?style=flat-square&logo=discord)](https://dsc.gg/FuneralOT) -->
 
-# Open Tibia Section
 ## $\textcolor{#24f2c6}{ 🌐 Active \space Tibia \space Projects 🌐}$
 - [Dragon Ball Universe](https://dbuniverse.net/) $\textcolor{green}{ 🌐 Online 🌐}$
 - [Nataera OT](http://nataera.com/) $\textcolor{green}{ 🌐 Online 🌐}$
