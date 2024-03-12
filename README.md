@@ -20,7 +20,7 @@
 
 
 
-## Contributing to 
+## $\textcolor{#f25e24}{ ⭐ Contribuiting \space to. ⭐}$
 <a href="https://github.com/opentibiabr/canary" alt="Canary">
    <picture>
       <source
