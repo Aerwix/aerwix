@@ -1,3 +1,4 @@
+## $\textcolor{#97D7F2}{Aerwix}$
 # 💫 About Me:
 🌱 I’m currently learning about bot developing<br>💤 Nap Lover
 Streaming Daily
