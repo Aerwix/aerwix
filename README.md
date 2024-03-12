@@ -19,6 +19,8 @@
 - [Gun Gale Online (2015)](https://www.facebook.com/BRampageOnline) $\textcolor{red}{ 🌐 Offline 🌐}$
 
 
+
+## Contributing to 
 <a href="https://github.com/opentibiabr/canary" alt="Canary">
    <picture>
       <source
