@@ -31,10 +31,10 @@ Gaming Projects
             media="(prefers-color-scheme: dark)"
          />
          <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=lizardbyte&repo=sunshine&theme=light"
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=OpenTibiaBr&repo=canary&theme=light"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
          />
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=lizardbyte&repo=sunshine&theme=light" />
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=OpenTibiaBR&repo=canary&theme=light" />
       </picture>
    </a>
 
