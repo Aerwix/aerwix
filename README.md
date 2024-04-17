@@ -16,7 +16,7 @@
 ## $\textcolor{#f25e24}{ 💀 Open \space Tibia \space Projects \space that \space I \space worked. 💀}$
 - [DreamOT (2018)](https://www.youtube.com/watch?v=zqFa0FbWlDM&ab_channel=AlexOnTv) $\textcolor{red}{ 🌐 Offline 🌐}$
 - [Pokemon Galaxy (2015-2016)](https://www.youtube.com/watch?v=zw4zeNNTMAY&list=PL6I9Ruqi63_kdzN8fAnPAaR6_43JBpULR&ab_channel=Fabianhernandez) $\textcolor{red}{ 🌐 Offline 🌐}$
-- [Gun Gale Online (2015)](https://www.facebook.com/BRampageOnline) $\textcolor{red}{ 🌐 Offline 🌐}$
+- [Gun Gale Online (2015)](https://www.facebook.com/search/top/?q=gun%20gale%20online%20tibia) $\textcolor{red}{ 🌐 Offline 🌐}$
 
 
 
