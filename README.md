@@ -11,9 +11,10 @@
 
 ## $\textcolor{#24f2c6}{ 🌐 Active \space Tibia \space Projects 🌐}$
 - [Dragon Ball Universe](https://dbuniverse.net/) $\textcolor{green}{ 🌐 Online 🌐}$
-- [Nataera OT](http://nataera.com/) $\textcolor{green}{ 🌐 Online 🌐}$
+- [Naruto Shinobi Ascension](http://62.146.182.117/) $\textcolor{green}{ 🌐 Online 🌐}$
 
 ## $\textcolor{#f25e24}{ 💀 Open \space Tibia \space Projects \space that \space I \space worked. 💀}$
+- [NataeraOT (2024)](http://nataera.com/) $\textcolor{red}{ 🌐 Offline 🌐}$
 - [DreamOT (2018)](https://www.youtube.com/watch?v=zqFa0FbWlDM&ab_channel=AlexOnTv) $\textcolor{red}{ 🌐 Offline 🌐}$
 - [Pokemon Galaxy (2015-2016)](https://www.youtube.com/watch?v=zw4zeNNTMAY&list=PL6I9Ruqi63_kdzN8fAnPAaR6_43JBpULR&ab_channel=Fabianhernandez) $\textcolor{red}{ 🌐 Offline 🌐}$
 - [Gun Gale Online (2015)](https://www.facebook.com/search/top/?q=gun%20gale%20online%20tibia) $\textcolor{red}{ 🌐 Offline 🌐}$
