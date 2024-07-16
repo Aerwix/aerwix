@@ -1,6 +1,6 @@
 <!-- ## $${\color{red}Welcome \space \color{lightblue}To \space your \space \color{red}{FUNERAL}}$$ -->
 
-## $\textcolor{#24B7F2}{ 🌐 Socials 🌐}$
+## $\textcolor{#24B7F2}{ 🌐 Socials 🌐 }$
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Aerwix)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Aerwix)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Aerwix.Gaming)
